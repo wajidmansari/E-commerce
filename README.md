@@ -19,7 +19,7 @@ To deploy this project run
 
   run on remix IDE
 Feedback
-If you have any feedback, please reach out to us at palashpatil@gmail.com
+If you have any feedback, please reach out to us at 
 
 Lessons Learned
 The lessons that i have learned is that how to use modifiers for specific conditions and event also
